@@ -3,7 +3,8 @@
 ## 📌 Project Overview
 
 This project analyzes Madrid's real estate market using Power BI to identify pricing trends, key price drivers, and investment opportunities. The analysis focuses on property characteristics, market segmentation, and price efficiency to support data-driven decision-making for buyers and investors.
-
+Analyzed 21,700+ residential property listings from Madrid to identify key factors influencing housing prices and support investment decision-making.
+Cleaned and transformed data using Python and Pandas, then built visualizations to uncover pricing trends across neighborhoods.
 ---
 
 ## 🎯 Business Objective
